@@ -1,0 +1,17 @@
+*.stl_temp
+divided/
+_parts/temp/
+_bkup/
+blender_script.py
+
+*.blend
+*.blend1
+
+*.gx
+
+path_list.txt
+
+__pycache__/
+
+
+/*.stl
